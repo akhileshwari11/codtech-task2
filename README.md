@@ -1,4 +1,14 @@
+Name : P.AKHILESHWARI
 
+Company : CODTECH IT SOLUTIONS
+
+ID : CT08DS2030
+
+Domain : JAVA PROGRAMMING
+
+Duration : 10th june to 10th july
+
+Mentor : G.SRAVANI
 
  Project Overview
 
